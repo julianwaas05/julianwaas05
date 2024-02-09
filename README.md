@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @julianwaas05
 - 👀 I’m interested in astrophysics / aerospace engineering / coding
 - 🌱 I’m currently learning python & java
-- 💞️ I’m looking to collaborate sth exciting or knowledgeable
+- 💞️ I’m looking to collaborate on sth exciting or knowledgeable
 - 📫 How to reach me: via mail
 - 😄 Pronouns: nah
 - ⚡ Fun fact: I´m 18 yrs old
