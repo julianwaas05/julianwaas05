@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning python & java
 - 💞️ I’m looking to collaborate on sth exciting or knowledgeable
 - 📫 How to reach me: via mail
-- 😄 Pronouns: nah
-- ⚡ Fun fact: I´m 18 yrs old
+- ⚡ Fun fact: I´m 19 yrs old
 
 <!---
 julianwaas05/julianwaas05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
