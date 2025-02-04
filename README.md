@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on sth exciting or knowledgeable
 - 📫 How to reach me: via mail
 - ⚡ Fun fact: I´m 19 yrs old
+- currently studying computational physics at university of Hamburg
 
 <!---
 julianwaas05/julianwaas05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
