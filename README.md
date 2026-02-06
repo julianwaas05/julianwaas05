@@ -1,6 +1,5 @@
-- 👋 Hi, I’m Julian and I’m 20 years old
-- my interests are in astrophysics / aerospace engineering / coding and other science related fields
-- currently studying computational physics at the university of Hamburg
+my interests are in astrophysics / aerospace engineering / coding and other science related fields
+currently studying computational physics at the university of Hamburg
 
 <!---
 julianwaas05/julianwaas05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
